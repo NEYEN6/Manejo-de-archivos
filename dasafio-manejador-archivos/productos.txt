@@ -1,0 +1,140 @@
+[
+  {
+    "title": "Bicicleta BMX",
+    "price": 5000,
+    "thumbnail": "https://falabella.scene7.com/is/image/FalabellaCO/8263644_1?wid=800&hei=800&qlt=70",
+    "id": 1
+  },
+  {
+    "title": "Bicicleta montain bike",
+    "price": 6000,
+    "thumbnail": "https://offcorss.vteximg.com.br/arquivos/ids/744125-460-540/51048651-Azul-13-4404_1.jpg?v=637844236663900000",
+    "id": 2
+  },
+  {
+    "title": "Bicicleta montain bike",
+    "price": 6000,
+    "thumbnail": "https://offcorss.vteximg.com.br/arquivos/ids/744125-460-540/51048651-Azul-13-4404_1.jpg?v=637844236663900000",
+    "id": 4
+  },
+  {
+    "title": "Bicicleta BMX",
+    "price": 5000,
+    "thumbnail": "https://falabella.scene7.com/is/image/FalabellaCO/8263644_1?wid=800&hei=800&qlt=70",
+    "id": 5
+  },
+  {
+    "title": "Bicicleta montain bike",
+    "price": 6000,
+    "thumbnail": "https://offcorss.vteximg.com.br/arquivos/ids/744125-460-540/51048651-Azul-13-4404_1.jpg?v=637844236663900000",
+    "id": 6
+  },
+  {
+    "title": "Bicicleta BMX",
+    "price": 5000,
+    "thumbnail": "https://falabella.scene7.com/is/image/FalabellaCO/8263644_1?wid=800&hei=800&qlt=70",
+    "id": 7
+  },
+  {
+    "title": "Bicicleta montain bike",
+    "price": 6000,
+    "thumbnail": "https://offcorss.vteximg.com.br/arquivos/ids/744125-460-540/51048651-Azul-13-4404_1.jpg?v=637844236663900000",
+    "id": 8
+  },
+  {
+    "title": "Bicicleta BMX",
+    "price": 5000,
+    "thumbnail": "https://falabella.scene7.com/is/image/FalabellaCO/8263644_1?wid=800&hei=800&qlt=70",
+    "id": 9
+  },
+  {
+    "title": "Bicicleta montain bike",
+    "price": 6000,
+    "thumbnail": "https://offcorss.vteximg.com.br/arquivos/ids/744125-460-540/51048651-Azul-13-4404_1.jpg?v=637844236663900000",
+    "id": 10
+  },
+  {
+    "title": "Bicicleta BMX",
+    "price": 5000,
+    "thumbnail": "https://falabella.scene7.com/is/image/FalabellaCO/8263644_1?wid=800&hei=800&qlt=70",
+    "id": 11
+  },
+  {
+    "title": "Bicicleta montain bike",
+    "price": 6000,
+    "thumbnail": "https://offcorss.vteximg.com.br/arquivos/ids/744125-460-540/51048651-Azul-13-4404_1.jpg?v=637844236663900000",
+    "id": 12
+  },
+  {
+    "title": "Bicicleta BMX",
+    "price": 5000,
+    "thumbnail": "https://falabella.scene7.com/is/image/FalabellaCO/8263644_1?wid=800&hei=800&qlt=70",
+    "id": 13
+  },
+  {
+    "title": "Bicicleta montain bike",
+    "price": 6000,
+    "thumbnail": "https://offcorss.vteximg.com.br/arquivos/ids/744125-460-540/51048651-Azul-13-4404_1.jpg?v=637844236663900000",
+    "id": 14
+  },
+  {
+    "title": "Bicicleta BMX",
+    "price": 5000,
+    "thumbnail": "https://falabella.scene7.com/is/image/FalabellaCO/8263644_1?wid=800&hei=800&qlt=70",
+    "id": 15
+  },
+  {
+    "title": "Bicicleta montain bike",
+    "price": 6000,
+    "thumbnail": "https://offcorss.vteximg.com.br/arquivos/ids/744125-460-540/51048651-Azul-13-4404_1.jpg?v=637844236663900000",
+    "id": 16
+  },
+  {
+    "title": "Bicicleta BMX",
+    "price": 5000,
+    "thumbnail": "https://falabella.scene7.com/is/image/FalabellaCO/8263644_1?wid=800&hei=800&qlt=70",
+    "id": 17
+  },
+  {
+    "title": "Bicicleta montain bike",
+    "price": 6000,
+    "thumbnail": "https://offcorss.vteximg.com.br/arquivos/ids/744125-460-540/51048651-Azul-13-4404_1.jpg?v=637844236663900000",
+    "id": 18
+  },
+  {
+    "title": "Bicicleta BMX",
+    "price": 5000,
+    "thumbnail": "https://falabella.scene7.com/is/image/FalabellaCO/8263644_1?wid=800&hei=800&qlt=70",
+    "id": 19
+  },
+  {
+    "title": "Bicicleta montain bike",
+    "price": 6000,
+    "thumbnail": "https://offcorss.vteximg.com.br/arquivos/ids/744125-460-540/51048651-Azul-13-4404_1.jpg?v=637844236663900000",
+    "id": 20
+  },
+  {
+    "title": "Bicicleta BMX",
+    "price": 5000,
+    "thumbnail": "https://falabella.scene7.com/is/image/FalabellaCO/8263644_1?wid=800&hei=800&qlt=70",
+    "id": 21
+  },
+  {
+    "title": "Bicicleta montain bike",
+    "price": 6000,
+    "thumbnail": "https://offcorss.vteximg.com.br/arquivos/ids/744125-460-540/51048651-Azul-13-4404_1.jpg?v=637844236663900000",
+    "id": 22
+  },
+  {
+    "title": "Bicicleta BMX",
+    "price": 5000,
+    "thumbnail": "https://falabella.scene7.com/is/image/FalabellaCO/8263644_1?wid=800&hei=800&qlt=70",
+    "id": 23
+  },
+  {
+    "title": "Bicicleta montain bike",
+    "price": 6000,
+    "thumbnail": "https://offcorss.vteximg.com.br/arquivos/ids/744125-460-540/51048651-Azul-13-4404_1.jpg?v=637844236663900000",
+    "id": 24
+  }
+]
