@@ -85,12 +85,12 @@ class Contenedor {
 const producto1 = {
     title: "Bicicleta BMX",
     price: 5000,
-    thumbnail: "https://falabella.scene7.com/is/image/FalabellaCO/8263644_1?wid=800&hei=800&qlt=70"
+    thumbnail: "https://d3ugyf2ht6aenh.cloudfront.net/stores/139/501/products/7024754d-cf69-4512-bfc3-c3ec2be6cb82-e4330688d73ab0b5cc16516083620033-480-0.jpg"
 }
 const producto2 = {
-    title: "Bicicleta montain bike",
+    title: "Bicicleta mountain bike",
     price: 6000,
-    thumbnail: "https://offcorss.vteximg.com.br/arquivos/ids/744125-460-540/51048651-Azul-13-4404_1.jpg?v=637844236663900000"
+    thumbnail: "https://http2.mlstatic.com/D_NQ_NP_2X_785392-MLA49762584558_042022-V.webp"
 }
 
 const manejadorProductos = new Contenedor("productos.txt");
